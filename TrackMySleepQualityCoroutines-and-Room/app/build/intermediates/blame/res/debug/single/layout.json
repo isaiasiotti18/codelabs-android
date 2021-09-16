@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/isaiasiotti/www/codelabs/TrackMySleepQualityCoroutines-and-Room/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_tracker.xml",
+        "source": "/home/isaiasiotti/www/codelabs/TrackMySleepQualityCoroutines-and-Room/app/src/main/res/layout/fragment_sleep_tracker.xml"
+    },
+    {
+        "merged": "/home/isaiasiotti/www/codelabs/TrackMySleepQualityCoroutines-and-Room/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_quality.xml",
+        "source": "/home/isaiasiotti/www/codelabs/TrackMySleepQualityCoroutines-and-Room/app/src/main/res/layout/fragment_sleep_quality.xml"
+    }
+]

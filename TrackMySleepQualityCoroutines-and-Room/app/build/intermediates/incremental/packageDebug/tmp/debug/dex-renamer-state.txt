@@ -1,0 +1,4 @@
+#Mon Sep 13 14:59:07 BRT 2021
+base.0=/home/isaiasiotti/www/codelabs/TrackMySleepQualityCoroutines-and-Room/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
